@@ -70,7 +70,7 @@ let xd = null
 // undefined
 
 let xr ;
-console.log(typeof xr)
+console.log(typeof xr)     
 
 // 🏋️‍♂️ Exercise 1: Variable Practice
 // Declare a const variable country and assign your country’s name to it.
