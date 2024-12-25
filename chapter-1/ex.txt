@@ -1,35 +1,52 @@
-🏋️‍♂️ Exercise 1: Variable Practice
-Declare a const variable country and assign your country’s name to it.
-Declare a let variable population and assign an estimated population value.
-Declare a var variable isDeveloped and set it to true or false.
-Print each variable to the consol
+🏋️‍♂️ Exercise 1: Create a Greeting Function
+Write a function called sayHello that takes a name as a parameter and returns "Hello, [name]!". Then call this function with different names.
 
-🏋️‍♂️ Exercise 2: Simple Math
-Write code that does the following:
+🏋️‍♂️ Exercise 2: Understanding Scope
+Write a function called scopeTest that declares a variable message within the function. Inside the function, write an if statement that declares another variable innerMessage and prints both message and innerMessage inside and outside of the if block.
 
-Create two variables: num1 and num2 and assign them any numbers.
-Perform the following operations and print the result:
-Sum of num1 and num2
-Difference between num1 and num2
-Product of num1 and num2
-Quotient when num1 is divided by num2
-Check if num1 is greater than num2
+ Exercise 3: Calculate Area
+Write a function called calculateArea that takes width and height as parameters. Give height a default value of 10. The function should return the area (width * height).
 
-🏋️‍♂️ Exercise 3: Temperature Check
-Declare a variable temp and assign a number representing temperature.
-Write an if-else condition:
-If temp is greater than 30, print "Very hot day."
-If temp is between 15 and 30 (inclusive), print "Nice weather."
-Otherwise, print "Cold day."
+🏋️‍♂️ Exercise 4: Immediate Execution
+Write an IIFE that logs "This is an IIFE!" to the console.
 
-🏋️‍♂️ Exercise 1: Print Even Numbers
-Write a for loop that prints all even numbers from 0 to 10.
+🏋️‍♂️ Exercise 1: Favorite Movies
+Create an array called favoriteMovies with 3 of your favorite movies.
+Add another movie to the end of the array.
+Print the first and last movie in the array.
 
-🏋️‍♂️ Exercise 2: Countdown with while Loop
-Write a while loop that starts at 5 and counts down to 1, printing each number. After the loop, print "Blast off!".
+🏋️‍♂️ Exercise 2: Print Numbers
+Create an array with numbers from 1 to 5. Use a forEach loop to print each number.
 
-🏋️‍♂️ Exercise 3: Sum of Numbers with do...while Loop
-Write a do...while loop that sums numbers from 1 to 5 and prints the result.
+🏋️‍♂️ Exercise 3: Create an Object
+Create an object called car with properties for make, model, and year.
+Add a new property for color.
+Print the entire object.
 
-🏋️‍♂️ Exercise 4: Multiplication Table
-Write a nested for loop to generate and print the multiplication table for numbers 1 to 3.
+
+🏋️‍♂️ Exercise 4: Loop Through an Object
+Create an object called student with properties name, age, and grade.
+Use a for...in loop to print each key and its value.
+
+🏋️‍♂️ Exercise 5: Array of Products
+Create an array called products with three objects, each having properties name, price, and inStock.
+Use forEach to print each product's name and price.
+
+🏋️‍♂️ Exercise 1: Uppercase Names
+Create an array of names, e.g., ["alice", "bob", "charlie"].
+Use map to create a new array where each name is capitalized.
+
+🏋️‍♂️ Exercise 2: Filter Prices
+Create an array of prices, e.g., [5, 10, 15, 20, 25].
+Use filter to create a new array with only prices greater than 15.
+
+
+🏋️‍♂️ Exercise 3: Total Price
+Create an array of prices, e.g., [5, 10, 15].
+Use reduce to find the total price of all items.
+
+🏋️‍♂️ Exercise 4: Filter, Map, and Reduce
+Create an array of student objects with name and score properties.
+Filter for students with scores above 70.
+Map to an array of scores only.
+Reduce to calculate the average score of the filtered students.
