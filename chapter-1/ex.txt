@@ -1,0 +1,35 @@
+🏋️‍♂️ Exercise 1: Variable Practice
+Declare a const variable country and assign your country’s name to it.
+Declare a let variable population and assign an estimated population value.
+Declare a var variable isDeveloped and set it to true or false.
+Print each variable to the consol
+
+🏋️‍♂️ Exercise 2: Simple Math
+Write code that does the following:
+
+Create two variables: num1 and num2 and assign them any numbers.
+Perform the following operations and print the result:
+Sum of num1 and num2
+Difference between num1 and num2
+Product of num1 and num2
+Quotient when num1 is divided by num2
+Check if num1 is greater than num2
+
+🏋️‍♂️ Exercise 3: Temperature Check
+Declare a variable temp and assign a number representing temperature.
+Write an if-else condition:
+If temp is greater than 30, print "Very hot day."
+If temp is between 15 and 30 (inclusive), print "Nice weather."
+Otherwise, print "Cold day."
+
+🏋️‍♂️ Exercise 1: Print Even Numbers
+Write a for loop that prints all even numbers from 0 to 10.
+
+🏋️‍♂️ Exercise 2: Countdown with while Loop
+Write a while loop that starts at 5 and counts down to 1, printing each number. After the loop, print "Blast off!".
+
+🏋️‍♂️ Exercise 3: Sum of Numbers with do...while Loop
+Write a do...while loop that sums numbers from 1 to 5 and prints the result.
+
+🏋️‍♂️ Exercise 4: Multiplication Table
+Write a nested for loop to generate and print the multiplication table for numbers 1 to 3.
